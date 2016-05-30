@@ -7,6 +7,39 @@ h1{
 
 p{
 	text-align: center;
-	font-size: 30px;
+	font-size: 20px;
 	text-decoration: cursive;
+}
+
+body{
+	background-color: #44aacc;
+}
+
+
+#button{
+	text-align: center;
+	margin-top: 50px;
+}
+
+#clear{
+	width: 150px;
+	margin-right: 10px;
+}
+
+#size{
+	width: 150px;
+	margin-left: 10px;
+}
+
+#mold{
+	height: 640px; width: 640px;
+	background-color: #ffffff;
+	margin: auto; margin-top: 30px;
+}
+
+#block{
+	border: 1px solid #666666;
+	display:flex;
+	height: 10%;
+	width: 50%;
 }
